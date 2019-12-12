@@ -8,9 +8,9 @@
 # 使用mongdb进行存储
 
 # 下载：
-# git clone https://github.com/AnlyWhereLJ/go-shici.git
+# git clone https://github.com/AnlyWhereLJ/go--scww-sprider.git
 
-# run:
+# 运行:
 # go build go-shici
 
 ############################################################################################################
