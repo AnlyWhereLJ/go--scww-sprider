@@ -5,7 +5,7 @@
 # 诗词爬取
 # 按照所需爬取(https://so.gushiwen.org/authors/)
 # 爬取相关的内容
-# 使用mongdb进行存储
+# 使用mysql数据库进行存储
 
 # 下载：
 # git clone https://github.com/AnlyWhereLJ/go--scww-sprider.git
